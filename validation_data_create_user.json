@@ -1,0 +1,59 @@
+[
+  {
+    "url": "https://qauto.forstudy.space/api",
+    "name": "Anna",
+    "lastName": "Ivanova",
+    "email": "",
+    "password": "Test1234*",
+    "repeatPassword": "Test1234*",
+    "description": "Порожній email"
+  },
+  {
+    "url": "https://qauto.forstudy.space/api",
+    "name": "A",
+    "lastName": "I",
+    "email": "a",
+    "password": "1",
+    "repeatPassword": "1",
+    "description": "Невалідні короткі значення"
+  },
+  {
+    "url": "https://qauto.forstudy.space/api",
+    "name": "Anna",
+    "lastName": "Ivanova",
+    "email": "annaivanova1333@gmail.com",
+    "password": "Pass1234*",
+    "repeatPassword": "Pass1234*",
+    "description": "Коректний користувач"
+  },
+
+
+
+  {
+    "url": "https://qauto2.forstudy.space/api",
+    "name": "Anna",
+    "lastName": "Ivanova",
+    "email": "",
+    "password": "Test1234*",
+    "repeatPassword": "Test1234*",
+    "description": "Порожній email"
+  },
+  {
+    "url": "https://qauto2.forstudy.space/api",
+    "name": "A",
+    "lastName": "i",
+    "email": "a",
+    "password": "1",
+    "repeatPassword": "1",
+    "description": "Невалідні короткі значення"
+  },
+  {
+    "url": "https://qauto2.forstudy.space/api",
+    "name": "Anna",
+    "lastName": "Ivanova",
+    "email": "annaivanova1555@gmail.com",
+    "password": "Pass1234*",
+    "repeatPassword": "Pass1234*",
+    "description": "Коректний користувач"
+  }
+]
